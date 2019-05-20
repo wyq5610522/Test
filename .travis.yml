@@ -1,0 +1,9 @@
+language: go
+matrix:
+  include:
+    - os: linux
+      dist: xenial
+      sudo: required
+      go: 1.10.x
+      script:
+        - go test ./...

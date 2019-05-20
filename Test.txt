@@ -1,6 +1,0 @@
-# This is a test text!
-# edit by liaoxiaoming!
-# i am edited it!
-# build it?
-# go test!!!
-Edit by shinnng
